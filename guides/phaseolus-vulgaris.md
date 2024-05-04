@@ -1,5 +1,5 @@
 ---
-parent: Seed-Saving Guides
+parent: One-Page Guides
 layout: default
 title: Beans, Common - Phaseolus Vulgaris
 ---
