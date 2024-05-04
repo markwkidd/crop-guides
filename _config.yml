@@ -18,7 +18,7 @@ description: Crop Wiki is a collaborative effort by Going to Seed members to com
 baseurl: "" # the subpath of your site, e.g. /blog
 theme: just-the-docs
 url: https://goingtoseed.org
-repository: just-the-docs/just-the-docs # for github-metadata
+repository: markwkidd/crop-guides # for github-metadata
 
 permalink: pretty
 
