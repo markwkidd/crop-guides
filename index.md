@@ -1,5 +1,5 @@
 ---
-title: Going to Seed Open-Source Crop Guides
+title: One-Page Crop Guides
 layout: home
 ---
 
