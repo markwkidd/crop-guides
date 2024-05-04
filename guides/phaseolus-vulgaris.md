@@ -25,6 +25,3 @@ Where possible, allow the pods to mature fully on the plant and begin to dry dow
 
 ## Drying and Storage
 Once very dry, freeze the seeds in an airtight container (glass jar or tightly sealed plastic) for 48 hours to kill any pests. When removing them from the freezer, allow the container to come to room temperature before opening, to prevent condensation from rehydrating seeds.
-
-## Footer
-Each printed page will have the website and QR code for more info. 
