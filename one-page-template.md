@@ -1,7 +1,6 @@
 ---
-parent: Seed-Saving Guides
 layout: default
-title: One-Pager Template
+title: One-Page Template
 ---
 
 # One-Pager Template
