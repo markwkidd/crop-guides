@@ -24,6 +24,3 @@ Add the relevant info from the Dry or Wet or fermentation process here.
 
 ## Drying and Storage
 Same as above, expand and customize as needed
-
-## Footer
-Each printed page will have the website and QR code for more info. 
