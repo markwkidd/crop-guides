@@ -1,3 +1,8 @@
+---
+title: Seed-Saving Instruction Templates
+layout: default
+---
+
 # Seed-Saving Instruction Templates
 
 ## Dry Process
