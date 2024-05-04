@@ -1,5 +1,5 @@
 ---
-title: One-Page Crop Guides
+title: About the Project
 layout: home
 ---
 
