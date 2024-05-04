@@ -1,3 +1,9 @@
+---
+parent: Seed-Saving Guides
+layout: default
+title: Beans, Common - Phaseolus Vulgaris
+---
+
 # Beans, Common - Phaseolus Vulgaris
 
 ## Introduction
