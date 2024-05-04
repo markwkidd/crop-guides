@@ -1,4 +1,10 @@
-# Crop One-Pager Template
+---
+parent: Seed-Saving Guides
+layout: default
+title: One-Pager Template
+---
+
+# One-Pager Template
 Copy and paste the raw markdown source for this template page, and replace the placeholder text.
 
 ## Introduction
