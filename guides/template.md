@@ -1,6 +1,5 @@
 # Crop One-Pager Template
-
-Copy and paste these categories, and read the example species (melons, cucumbers, common and runner beans, moschata). Language in non-italics you can choose to keep or edit. 
+Copy and paste the raw markdown source for this template page, and replace the placeholder text.
 
 ## Introduction
 A couple sentences of basic introduction to this species.  
