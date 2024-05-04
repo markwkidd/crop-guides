@@ -1,4 +1,10 @@
+---
+title: Writing Guidelines
+layout: default
+---
+
 # Writing Guidelines
+
 * Each page should be able to function as a standalone, printed document available at a local seed event. 
   - Could be a collaborative seed saving project with neighbors seeds mixed (not from our Seed program), but associated with us and similar practices. 
   - OR think Seed Library or other seed organization that got a bunch of seeds from our program and is displaying them in a seed library for gardeners to pick up. 
