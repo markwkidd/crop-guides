@@ -1,9 +1,9 @@
 ---
-title: Seed-Saving Guides
+title: One-Page Guides
 layout: default
 has_children: true
 ---
 
-# Seed-Saving Guides
+# One-Page Guides
 
 This folder contains the existing crop guides.
