@@ -1,8 +1,9 @@
 ---
-title: Seed-Saving Instruction Templates
+title: Seed-Saving Guides
 layout: default
 has_children: true
 ---
-# Crop Guide Collection
+
+# Seed-Saving Guides
 
 This folder contains the existing crop guides.
