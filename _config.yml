@@ -1,8 +1,8 @@
-title: One-Page Crop Guides - Going to Seed
-description: Crop Wiki is a collaborative effort to compile guides on landrace seed-saving for cultivated crops
+title: One-Page Crop Guides
+description: Crop Wiki is a collaborative effort by Going to Seed members to compile guides on landrace seed-saving for cultivated crops
 theme: just-the-docs
 
 url: https://goingtoseed.org
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Crop Guide Github Repository: https://github.com/markwkidd/crop-guides
