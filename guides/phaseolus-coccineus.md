@@ -11,7 +11,7 @@ Runner beans are a popular bean type known for their beautiful flowers as well a
 These packets contain a diverse mix of genetics. You can add your own varieties into the mix, but avoid commercial hybrids (labeled F1 in seed catalogs) to avoid introducing undesirable traits into the population.
 
 ## Planting seeds
-Plant seeds directly into the garden when soil temperatures are consistently above 45°F. Grow them as you normally would, but resist using any kind of insecticides or fungicides, even if they are organic  – natural, genetic tolerance of stressors cannot be discovered if artificial means are employed to keep plants alive.    Each year the resilience to local climate, bugs, and diseases will improve. These plants are climbers, so plant them with corn or sunflowers, or provide a trellis.
+*The Bold Text*
 
 ## Isolation Distance Requirements
 If somebody has a variety they want to keep separate
